@@ -1,0 +1,2 @@
+chmod +x /home/pi/Desktop/C/compile.sh
+/home/pi/Desktop/C/compile.sh
